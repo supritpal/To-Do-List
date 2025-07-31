@@ -17,11 +17,6 @@ A simple, clean, and responsive To-Do List web application built using **React**
 - 🧠 JavaScript (ES6)
 - 💻 HTML5
 
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| *(Add screenshot here)* | *(Add screenshot here)* |
 
 ## Live Demo
 https://suprits-to-do-list.netlify.app/
